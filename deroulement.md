@@ -1,4 +1,4 @@
 # FoxIndustry
 Projet Fil Rouge
 
-Présentation du groupe et reponse à l'offre : fait
+Présentation du groupe, reponse à l'offre, devis : fait
